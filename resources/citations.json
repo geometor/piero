@@ -1,0 +1,52 @@
+{
+  "citations": [
+    {
+      "id": "urb-lat-632",
+      "author": "Piero della Francesca",
+      "title": "Libellus de quinque corporibus regularibus (Codex Urbinas Latinus 632)",
+      "publisher": "Biblioteca Apostolica Vaticana",
+      "year": "c. 1482–1492",
+      "url": "https://digi.vatlib.it/view/MSS_Urb.lat.632",
+      "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Urb.lat.632/manifest.json"
+    },
+    {
+      "id": "mancini-1915",
+      "author": "Girolamo Mancini (ed.)",
+      "title": "L'opera 'De corporibus regularibus' di Pietro Franceschi detto Della Francesca usurpata da fra Luca Pacioli",
+      "publisher": "Memorie della R. Accademia dei Lincei, Classe di scienze morali, storiche e filologiche, Ser. V, Vol. XIV, Fasc. 7B, pp. 441–580",
+      "year": "1915 / 1916",
+      "url": "https://babel.hathitrust.org/cgi/pt?id=uc1.$b514578"
+    },
+    {
+      "id": "pacioli-1509-part3",
+      "author": "Fra Luca Pacioli",
+      "title": "De Divina Proportione — Part III: Libello diviso in tre particole tractando de' cinque corpi regolari",
+      "publisher": "Paganino de' Paganini, Venice",
+      "year": "1509"
+    },
+    {
+      "id": "maurolico-1575",
+      "author": "Francesco Maurolico",
+      "title": "Opuscula Mathematica — De quinque solidis, quae vulgo regularia dicuntur, quae videlicet eorum locum impleant, aut non impleant",
+      "publisher": "Venice",
+      "year": "1575 (composed 1529)",
+      "url": "https://archive.org/details/bub_gb_Mk-MNxHKSdAC"
+    },
+    {
+      "id": "foix-candale-1566",
+      "author": "François de Foix-Candale (Flussates)",
+      "title": "Euclidis Megarensis Mathematici Clarissimi Elementa Geometrica, Libris XV... his accessit decimus sextus liber de solidorum regularium sibi invicem inscriptorum collationibus",
+      "publisher": "Paris (1566) / Cologne (1578, 18 Books)",
+      "year": "1566 / 1578",
+      "url": "https://archive.org/details/euclidiselemento01eucl"
+    },
+    {
+      "id": "jamnitzer-1568",
+      "author": "Wenzel Jamnitzer",
+      "title": "Perspectiva Corporum Regularium",
+      "publisher": "Nuremberg",
+      "year": "1568",
+      "url": "https://archive.org/details/gri_33125012889602"
+    }
+  ]
+}

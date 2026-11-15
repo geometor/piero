@@ -1,0 +1,52 @@
+{
+  "persons": [
+    {
+      "id": "piero-della-francesca",
+      "name": "Piero della Francesca",
+      "dates": "c. 1415 – October 12, 1492",
+      "role": "Author & Autograph Illustrator",
+      "work": "Libellus de quinque corporibus regularibus (Cod. Urb. lat. 632)"
+    },
+    {
+      "id": "guidobaldo-da-montefeltro",
+      "name": "Guidobaldo da Montefeltro, Duke of Urbino",
+      "dates": "1472 – 1508",
+      "role": "Dedicatee of Cod. Urb. lat. 632"
+    },
+    {
+      "id": "luca-pacioli",
+      "name": "Fra Luca Pacioli",
+      "dates": "c. 1447 – 1517",
+      "role": "1509 Italian Vernacular Translator (De Divina Proportione, Part III)"
+    },
+    {
+      "id": "girolamo-mancini",
+      "name": "Girolamo Mancini",
+      "dates": "1832 – 1924",
+      "role": "Critical Latin Editor (Accademia dei Lincei, 1915)"
+    },
+    {
+      "id": "francesco-maurolico",
+      "name": "Francesco Maurolico",
+      "dates": "1494 – 1575",
+      "role": "Author of Libellus de impletione loci quinque solidorum regularium (1529/1575)"
+    },
+    {
+      "id": "foix-candale",
+      "name": "François de Foix-Candale (Flussates)",
+      "dates": "1512 – 1594",
+      "role": "Author of Euclidis Elementa Libri XVI–XVIII on Regular Polyhedra (1566/1578)"
+    },
+    {
+      "id": "wenzel-jamnitzer",
+      "name": "Wenzel Jamnitzer",
+      "dates": "1507/1508 – 1585",
+      "role": "Author of Perspectiva Corporum Regularium (Nuremberg, 1568)"
+    },
+    {
+      "id": "phi-architect",
+      "name": "phi ARCHITECT",
+      "role": "GEOMETOR Scriptorium Editor & Translator"
+    }
+  ]
+}

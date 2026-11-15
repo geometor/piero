@@ -1,0 +1,83 @@
+{
+  "edition": "quinque_corporibus",
+  "title": "Libellus de Quinque Corporibus Regularibus",
+  "author": "Piero della Francesca (c. 1415 – 1492)",
+  "composition_date": "c. 1482–1492 (Urbino / Borgo Sansepolcro)",
+  "tracks": ["en", "la", "it_1509", "notes"],
+  "primary_witnesses": {
+    "urb_lat_632": {
+      "siglum": "U",
+      "repository": "Biblioteca Apostolica Vaticana, Cod. Urb. lat. 632",
+      "folios": "f. 1r – 68v",
+      "viewer_url": "https://digi.vatlib.it/view/MSS_Urb.lat.632",
+      "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Urb.lat.632/manifest.json"
+    },
+    "mancini_1915": {
+      "siglum": "M",
+      "citation": "Girolamo Mancini, Memorie della R. Accademia dei Lincei, Ser. V, Vol. XIV, Fasc. 7B (1915/1916), pp. 441–580",
+      "latin_text_pages": "488–580",
+      "hathitrust_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=uc1.$b514578",
+        "https://babel.hathitrust.org/cgi/pt?id=uc1.31158010476485"
+      ]
+    },
+    "pacioli_1509_part3": {
+      "siglum": "P",
+      "citation": "Luca Pacioli, De Divina Proportione, Part III: Tractato de' cinque corpi regolari (Venice: Paganino Paganini, 1509)",
+      "local_sister_path": "../pacioli/resources/de_divina_proportione/paganini_1509",
+      "scan_range": "0085.png – 0136.png (52 folios, 269 calibrated woodcuts)"
+    }
+  },
+  "sections": [
+    {
+      "id": "epistola",
+      "title_la": "Epistola Dedicatoria ad Guidobaldum Feretranum",
+      "title_en": "Dedicatory Epistle to Guidobaldo da Montefeltro, Duke of Urbino",
+      "urb_lat_632_folios": "f. 1r – 1v",
+      "mancini_pages": "488–489",
+      "pacioli_1509_scans": "0085",
+      "cases_count": 0,
+      "summary": "Dedication placing the Libellus alongside De prospectiva pingendi in the Ducal Library of Urbino."
+    },
+    {
+      "id": "tractatus_1",
+      "title_la": "Tractatus Primus — De figuris planis",
+      "title_en": "First Treatise — On Plane Figures and Pentagonal Chords",
+      "urb_lat_632_folios": "f. 2r – 21v",
+      "mancini_pages": "490–516",
+      "pacioli_1509_scans": "0085 – 0100",
+      "cases_count": 55,
+      "summary": "Exact radical mensuration of triangles, squares, regular pentagons over Q(phi), hexagons, octagons, and inscribed circle chords."
+    },
+    {
+      "id": "tractatus_2",
+      "title_la": "Tractatus Secundus — De quinque corporibus regularibus in sphaera",
+      "title_en": "Second Treatise — The Five Regular Bodies Inscribed in a Sphere",
+      "urb_lat_632_folios": "f. 22r – 36v",
+      "mancini_pages": "517–537",
+      "pacioli_1509_scans": "0101 – 0111",
+      "cases_count": 37,
+      "summary": "Arithmetization of Euclid Book XIII: edges, altitudes, surface areas, circumspheres, and volumes of Tetrahedron, Cube, Octahedron, Icosahedron, and Dodecahedron in a sphere of diameter 12."
+    },
+    {
+      "id": "tractatus_3",
+      "title_la": "Tractatus Tertius — De mutua inscriptione corporum regularium",
+      "title_en": "Third Treatise — Mutual Inscriptions of the Five Regular Solids",
+      "urb_lat_632_folios": "f. 37r – 50v",
+      "mancini_pages": "538–557",
+      "pacioli_1509_scans": "0111 – 0121",
+      "cases_count": 29,
+      "summary": "Pairwise inscriptions among the Platonic solids, highlighted by Casus 4: Piero's original inscription of a Regular Icosahedron of edge sqrt(180) - 6 = 6/phi inside a Cube of edge 12."
+    },
+    {
+      "id": "tractatus_4",
+      "title_la": "Tractatus Quartus — De corporibus irregularibus et sphaericis",
+      "title_en": "Fourth Treatise — Irregular, Truncated Archimedean & Vaulted Bodies",
+      "urb_lat_632_folios": "f. 51r – 68v",
+      "mancini_pages": "558–580",
+      "pacioli_1509_scans": "0121 – 0136",
+      "cases_count": 19,
+      "summary": "Five truncated Archimedean solids, 72-faced mazzocchio sphere, 6-edge general tetrahedron volume formula (anticipating Cayley-Menger), and exact bicylinder cross-vault volume (2/3)d^3."
+    }
+  ]
+}

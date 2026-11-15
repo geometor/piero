@@ -1,0 +1,63 @@
+:navigation: header
+:order: 1
+:nav_title: Libellus de Quinque Corporibus
+:layout: book
+:book_title: Libellus de Quinque Corporibus Regularibus
+:book_subtitle: On the Five Regular Bodies — Critical Latin, 1509 Vernacular & First Complete English Edition
+:author: Piero della Francesca (c. 1415 – 1492)
+
+.. _quinque_corporibus-index:
+
+==========================================
+Libellus de Quinque Corporibus Regularibus
+==========================================
+
+.. rubric:: *On the Five Regular Bodies* — Piero della Francesca (c. 1482–1492)
+
+.. container:: title-page
+
+   | **Author & Autograph Illustrator:** Piero della Francesca (c. 1415 – 1492)
+   | **Autograph Manuscript:** Biblioteca Apostolica Vaticana, ``Cod. Urb. lat. 632`` *(f. 1r–68v)*
+   | **Critical Latin Text:** Girolamo Mancini, *Memorie della R. Accademia dei Lincei*, Ser. V, Vol. XIV (1915), pp. 488–580
+   | **1509 Italian Witness:** Fra Luca Pacioli, *De Divina Proportione*, Part III *(Venice, 1509, fols. 0085–0136)*
+   | **Digital Edition:** GEOMETOR Scriptorium (Synchronized Latin · 1509 Italian · First Complete English Translation · Exact ``geometor/polyhedra`` Commentary)
+
+Composed at Borgo Sansepolcro in the 1480s and dedicated to Guidobaldo da Montefeltro, Duke of Urbino, Piero della Francesca's *Libellus de quinque corporibus regularibus* is the foundational Renaissance treatise uniting classical Euclidean stereometry (Books XIII–XV) with abacus radical algebra over :math:`\mathbb{Q}(\phi)`.
+
+Four *Tractatus* (~140 Cases)
+-----------------------------
+
+.. list-table::
+   :header-rows: 1
+   :widths: 18 14 14 14 40
+
+   * - Section
+     - ``Urb. lat. 632``
+     - Mancini (1915)
+     - Venice (1509)
+     - Mathematical Contents
+   * - **Epistola**
+     - ``f. 1r–1v``
+     - ``pp. 488–489``
+     - ``0085``
+     - Dedication to Guidobaldo da Montefeltro placing the *Libellus* beside *De prospectiva pingendi*.
+   * - **Tractatus I** *(55 Cases)*
+     - ``f. 2r–21v``
+     - ``pp. 490–516``
+     - ``0085–0100``
+     - Triangles, squares, **regular pentagon chords & diagonals over** :math:`\mathbb{Q}(\phi)`, hexagons, and inscribed polygons.
+   * - **Tractatus II** *(37 Cases)*
+     - ``f. 22r–36v``
+     - ``pp. 517–537``
+     - ``0101–0111``
+     - Edges, axes, areas, and volumes of all **5 Regular Solids** inscribed in a sphere of diameter :math:`12`.
+   * - **Tractatus III** *(29 Cases)*
+     - ``f. 37r–50v``
+     - ``pp. 538–557``
+     - ``0111–0121``
+     - Mutual inscriptions among the 5 Platonic solids—featuring **Casus 4**: Piero's original inscription of an **Icosahedron of edge** :math:`\sqrt{180}-6 = 6/\phi` **inside a Cube of side** :math:`12`.
+   * - **Tractatus IV** *(19 Cases)*
+     - ``f. 51r–68v``
+     - ``pp. 558–580``
+     - ``0121–0136``
+     - **5 Truncated Archimedean Solids**, 72-faced sphere, **6-edge irregular tetrahedron volume formula** (anticipating Cayley–Menger), and exact bicylinder cross-vault volume :math:`\tfrac{2}{3}d^3`.
