@@ -1,0 +1,59 @@
+src.geometor.piero
+==================
+
+.. py:module:: src.geometor.piero
+
+.. autoapi-nested-parse::
+
+   Public package interface for ``geometor.piero``.
+
+
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 1
+
+   /modules/api/src/geometor/piero/__main__/index
+   /modules/api/src/geometor/piero/app/index
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   src.geometor.piero.__version__
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   src.geometor.piero.main
+   src.geometor.piero.run
+
+
+Package Contents
+----------------
+
+.. py:function:: main() -> None
+
+   Console-script entry point.
+
+
+.. py:function:: run(argv: collections.abc.Sequence[str] | None = None) -> int
+
+   Execute the command-line workflow.
+
+   :param argv: Optional sequence of CLI arguments (defaults to empty list when ``None``).
+
+   :returns: Exit code (``0`` on success).
+
+
+.. py:data:: __version__
+   :value: '0.1.0'
+
+

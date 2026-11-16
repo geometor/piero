@@ -1,0 +1,11 @@
+src.geometor.piero.__main__
+===========================
+
+.. py:module:: src.geometor.piero.__main__
+
+.. autoapi-nested-parse::
+
+   Package entry point for ``python -m geometor.piero``.
+
+
+
