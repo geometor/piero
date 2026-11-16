@@ -1,10 +1,14 @@
 :navigation: header
 :order: 1
+:type: book
 :nav_title: Libellus de Quinque Corporibus
+:breadcrumb_title: Libellus de Quinque Corporibus
 :layout: book
 :book_title: Libellus de Quinque Corporibus Regularibus
 :book_subtitle: On the Five Regular Bodies — Critical Latin, 1509 Vernacular & First Complete English Edition
-:author: Piero della Francesca (c. 1415 – 1492)
+:author: Piero della Francesca
+:year: c. 1482–1492
+:excerpt: Piero della Francesca's landmark Renaissance treatise uniting classical Euclidean stereometry with abacus radical algebra, mutual Platonic inscriptions, and Archimedean solids.
 
 .. _quinque_corporibus-index:
 
