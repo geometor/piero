@@ -2,13 +2,13 @@
 
 .. container:: author-overline
 
-   the works of
+   semantic digital archive • the works of
 
 =====================
 Piero della Francesca
 =====================
 
-The mission of this project is to capture a semantic digital library of the works of :person:`Piero della Francesca <piero-della-francesca>` (c. 1415 – 1492), the master painter and geometer of Sansepolcro whose treatises unified Renaissance perspective, classical Euclidean stereometry, and regular polyhedra.
+The works of :person:`Piero della Francesca <piero-della-francesca>` (c. 1415–1492), master painter and geometer of Sansepolcro, unified Renaissance perspective, Euclidean stereometry, and regular polyhedra. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, these works are liberated from static print bounds—decomposed into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and cross-corpus citations speaking one shared geometric language.
 
 .. collection::
    :type: book
