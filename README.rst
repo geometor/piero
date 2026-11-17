@@ -13,7 +13,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`On the Five Regular Bodies <https://geometor.github.io/piero/quinque_corporibus/>`_** — *Libellus de Quinque Corporibus Regularibus*, presenting critical Latin, 1509 vernacular, and complete English codex with arithmetic and geometric determinations for regular and semi-regular solids.
+- `On the Five Regular Bodies <https://geometor.github.io/piero/quinque_corporibus/>`_ — *Libellus de Quinque Corporibus Regularibus*, presenting critical Latin, 1509 vernacular, and complete English codex with arithmetic and geometric determinations for regular and semi-regular solids.
 
 Repository Contents
 -------------------
