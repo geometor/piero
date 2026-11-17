@@ -15,6 +15,15 @@ Books in This Archive
 
 - `On the Five Regular Bodies <https://geometor.github.io/piero/quinque_corporibus/>`_ — *Libellus de Quinque Corporibus Regularibus*, presenting critical Latin, 1509 vernacular, and complete English codex with arithmetic and geometric determinations for regular and semi-regular solids.
 
+Python Package & Modules
+------------------------
+
+The ``geometor-piero`` Python package (``import geometor.piero``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``app.py`` — Command-line interface for ``geometor.piero``.
+
+See the `API Reference <https://geometor.github.io/piero/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
