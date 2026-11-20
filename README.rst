@@ -1,13 +1,13 @@
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • piero Medallion
+   :target: https://geometor.github.io/piero/
+   :width: 150px
+   :align: right
+
 GEOMETOR • piero
 ================
 
 **Visit the Online Archive:** https://geometor.github.io/piero/
-
-.. image:: docsrc/_static/logo.png
-   :alt: GEOMETOR • piero Medallion
-   :target: https://geometor.github.io/piero/
-   :width: 180px
-   :align: center
 
 .. image:: docsrc/_static/social/banner.png
    :alt: GEOMETOR • piero featured graphic
