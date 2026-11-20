@@ -8,6 +8,10 @@
 Piero della Francesca
 =====================
 
+.. image:: _static/medallion.svg
+   :alt: Piero della Francesca Medallion
+   :class: repo-medallion-hero
+
 The works of :person:`Piero della Francesca <piero-della-francesca>` (c. 1415–1492), master painter and geometer of Sansepolcro, unified Renaissance perspective, Euclidean stereometry, and regular polyhedra. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, these works are liberated from static print bounds—decomposed into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and cross-corpus citations speaking one shared geometric language.
 
 .. reference-directory::
